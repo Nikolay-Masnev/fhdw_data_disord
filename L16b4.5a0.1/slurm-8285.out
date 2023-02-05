@@ -1,0 +1,15 @@
+In file 'fermi-hubbard.f', around line 421: Error allocating 67377299456 bytes: Cannot allocate memory
+
+Error termination. Backtrace:
+#0  0x56117ca33462 in ???
+#1  0x56117ca34219 in ???
+#2  0x56117ca34582 in ???
+#3  0x56117df910d6 in ???
+#4  0x56117dfa754b in ???
+#5  0x56117c6da146 in __libc_start_call_main
+	at ../sysdeps/nptl/libc_start_call_main.h:58
+#6  0x56117c6da204 in __libc_start_main_impl
+	at ../csu/libc-start.c:381
+#7  0x56117df8e354 in ???
+	at ../sysdeps/x86_64/start.S:115
+#8  0xffffffffffffffff in ???
