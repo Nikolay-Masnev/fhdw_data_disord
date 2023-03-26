@@ -1,0 +1,8 @@
+=========================================
+SLURM_JOB_ID = 599414
+SLURM_JOB_NODELIST = node20-56
+SLURM_CPUS_ON_NODE = 15
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 112682
+==========================================
+slurmstepd: error: *** JOB 599414 ON node20-56 CANCELLED AT 2023-03-26T17:25:34 ***
