@@ -1,0 +1,9 @@
+=========================================
+SLURM_JOB_ID = 604924
+SLURM_JOB_NODELIST = node20-62
+SLURM_CPUS_ON_NODE = 10
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 1375279
+==========================================
+/tmp/slurmd/job604924/slurm_script: line 6: 1375281 Killed                  ~/fhdw-master/a.out par_L16b5.0r1a0
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=604924.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

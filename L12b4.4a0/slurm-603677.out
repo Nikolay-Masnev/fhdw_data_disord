@@ -1,0 +1,10 @@
+=========================================
+SLURM_JOB_ID = 603677
+SLURM_JOB_NODELIST = node20-58
+SLURM_CPUS_ON_NODE = 15
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 1512708
+==========================================
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ start with TABULATE
+ done with TABULATE

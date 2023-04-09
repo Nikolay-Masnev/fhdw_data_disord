@@ -1,0 +1,23 @@
+=========================================
+SLURM_JOB_ID = 604908
+SLURM_JOB_NODELIST = node20-49
+SLURM_CPUS_ON_NODE = 15
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 510891
+==========================================
+At line 1938 of file fermi-hubbard.f (unit = 1, file = 'disord_L16b5.0r10a0.dat')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x7f25e519a171 in ???
+#1  0x7f25e519ad19 in ???
+#2  0x7f25e519b521 in ???
+#3  0x7f25e53a30eb in ???
+#4  0x7f25e539bdd6 in ???
+#5  0x7f25e539d659 in ???
+#6  0x40cc8e in ???
+#7  0x4062aa in ???
+#8  0x41882a in ???
+#9  0x7f25e4615ca2 in ???
+#10  0x4014fd in ???
+#11  0xffffffffffffffff in ???

@@ -1,0 +1,8 @@
+=========================================
+SLURM_JOB_ID = 603662
+SLURM_JOB_NODELIST = node20-89
+SLURM_CPUS_ON_NODE = 15
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 555264
+==========================================
+/home/common/masnev.ng/fhdw-master/a.out: error while loading shared libraries: libopenblas.so.0: cannot open shared object file: No such file or directory

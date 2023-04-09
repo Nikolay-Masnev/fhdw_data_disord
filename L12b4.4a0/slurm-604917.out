@@ -1,0 +1,8 @@
+=========================================
+SLURM_JOB_ID = 604917
+SLURM_JOB_NODELIST = node20-49
+SLURM_CPUS_ON_NODE = 15
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 510933
+==========================================
+/tmp/slurmd/job604917/slurm_script: line 7: 510935 Killed                  ~/fhdw-master/a.out par_L16b5.0r1a0

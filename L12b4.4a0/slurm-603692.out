@@ -1,0 +1,8 @@
+=========================================
+SLURM_JOB_ID = 603692
+SLURM_JOB_NODELIST = node20-50
+SLURM_CPUS_ON_NODE = 15
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 2442671
+==========================================
+slurmstepd: error: *** JOB 603692 ON node20-50 CANCELLED AT 2023-04-09T09:00:32 ***
